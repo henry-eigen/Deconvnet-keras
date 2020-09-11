@@ -1,8 +1,7 @@
-# My fork
+# Deconvnet
 The is a fork of jalused's [implementation](https://github.com/jalused/Deconvnet-keras) restructured and updated to be compatible with Keras 2.0 and a tensorflow backend.
 
-# Deconvnet
-This is a implementation of Deconvnet in keras, following Matthew D.Zeiler's paper [Visualizing and Understanding Convolutional Networks](http://arxiv.org/pdf/1311.2901v3.pdf)
+It implements a Deconvnet in keras, following Matthew D.Zeiler's paper [Visualizing and Understanding Convolutional Networks](http://arxiv.org/pdf/1311.2901v3.pdf)
 
 ## Feature
 Given a pre-trained keras model, this repo can visualize features of specified layer including dense layer.  
